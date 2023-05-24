@@ -1,6 +1,8 @@
 body {
     overflow: auto;
-    background-image: url("https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2020/07/shutterstock_582803470.jpg?w=750");
+    background-image: url("https://images.unsplash.com/photo-1505682634904-d7c8d95cdc50?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 .row {
@@ -12,7 +14,7 @@ body {
 }
 
 .navbar {
-    background-color: #2D394D;
+    background: linear-gradient(to right, rgb(23, 233, 51), blue ,red);
 }
 
 .settings-module {
@@ -25,7 +27,7 @@ body {
 }
 
 .card-header {
-    background-color: #2D394D;
+    background: linear-gradient(to right, rgb(23, 233, 51) ,red);
 }
 
 a {
@@ -134,8 +136,7 @@ h4 {
 
 .sound-toggler-wrapper {
     font-size: 13px;
-    /* position: fixed;
-    top: 26px; */
+  
 }
 
 .sound-toggler-wrapper {
@@ -177,8 +178,4 @@ h4 {
     margin-bottom: 2px;
 }
 
-/* .title-wrapper {
-    position: fixed;
-    bottom: 20px;
-    width: calc(100% - 42px);
-} */
+

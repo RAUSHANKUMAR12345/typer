@@ -1,4 +1,4 @@
-// https://github.com/KaranAgarwalla/Encryption-Decryption/blob/master/ngrams4.txt
+
 const tetragrams = [
     'tion',
     'atio',
