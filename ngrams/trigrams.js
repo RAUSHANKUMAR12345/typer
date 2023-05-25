@@ -1,4 +1,4 @@
-// https://github.com/KaranAgarwalla/Encryption-Decryption/blob/master/ngrams3.txt
+
 const trigrams = [
     'the',
     'and',

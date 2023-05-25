@@ -3,7 +3,7 @@ var ngramTypeConfig = {
     data: function() {
         return {
             
-            VERSION: 2.0,
+           // VERSION: 2.0,
 
             // Data source mappings.
             bigrams: bigrams,
